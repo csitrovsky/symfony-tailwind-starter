@@ -80,7 +80,7 @@ symfony serve
 
 ## 🤝 Как использовать как шаблон
 
-1. Нажмите кнопку **[Use this template](https://github.com/yourusername/symfony-tailwind-starter/generate)** в GitHub
+1. Нажмите кнопку **[Use this template](https://github.com/csitrovsky/symfony-tailwind-starter/generate)** в GitHub
 2. Введите название нового проекта
 3. Клонируйте новый репозиторий и работайте
 
